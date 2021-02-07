@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on CONMAJIA</title>
+    <link>/tags/programming/</link>
+    <description>Recent content in programming on CONMAJIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&lt;span style=&#34;text-shadow:1px 1px var(--tertiary);font-stretch:expanded;letter-spacing:-1px;font-weight:bold;font-family:&#39;trebuchet ms&#39;,helvetica,arial;font-size:var(--font-lg)&#34;&gt;&lt;span style=&#34;color:orangered&#34;&gt;e&lt;/span&gt;&lt;span style=&#34;color:royalblue&#34;&gt;b&lt;/span&gt;&lt;span style=&#34;color:orange&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:yellowgreen&#34;&gt;y&lt;/span&gt;&lt;/span&gt; Item Extractor</title>
+      <link>/posts/py-web-crawler/ebay-item-extractor/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/py-web-crawler/ebay-item-extractor/</guid>
+      <description>This is a more complicated example of web crawler compared to what is demonstrated in the Web Crawler Introduction.
+Ebay is an amazing e-commercial website containing huge amounts of goods trading on it. Thanks to Python, it is possible to extract every single detail of items on Ebay.
+ NOTE requests.get can only fetch statically served pages, which means any late-binding dynamically generated pages may suffer a unsuccessful retrieval.
+ Generate URL with Search Keywords To crawl a website, a correct resource location is required to fetch web pages containing desired contents.</description>
+    </item>
+    
+    <item>
+      <title>Web Crawler Introduction</title>
+      <link>/posts/py-web-crawler/what-is-web-crawler/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/py-web-crawler/what-is-web-crawler/</guid>
+      <description>Web crawlers, usually known as web spiders, are automated data samplers and remote content fetchers. These programmed agents retrieve web contents and store them for future analytic usage. A typical crawler loads web pages from the internet, abstracts contents of specified fields in page HTML sources, and constructs these data into a JSON object or other formats of storage. In this scenario, the crawler substitutes web browsers operated by human clients.</description>
+    </item>
+    
+  </channel>
+</rss>

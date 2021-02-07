@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on CONMAJIA</title>
+    <link>/series/</link>
+    <description>Recent content in Series on CONMAJIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Crawler</title>
+      <link>/series/python-crawler/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/series/python-crawler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>College Application</title>
+      <link>/series/college-application/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/series/college-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EM</title>
+      <link>/series/em/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/series/em/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMP</title>
+      <link>/series/emp/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/series/emp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

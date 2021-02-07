@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EM on CONMAJIA</title>
+    <link>/series/em/</link>
+    <description>Recent content in EM on CONMAJIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/em/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4-1 Audio MUX and Stereo Speaker</title>
+      <link>/posts/em-series/em21-a-em22/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/em-series/em21-a-em22/</guid>
+      <description>4-1 audio multiplexer initiated on May 12, 2020, codename EM22.
+Stereo speaker initiated on , codename EM21-A.
+   Figure 1 EM21-A and EM22   These two devices were made to enjoy audio contents from multiple analog sound sources. EM22 selects output channels and EM21-A amplifies the selection and outputs them via two built-in loudspeakers, or directly via a 3.5mm panel headphone jack.
+Switching between audio channels requires only a simple press on either of the four green buttons on EM22, fairly easy.</description>
+    </item>
+    
+    <item>
+      <title>1A Lithium Battery Charger</title>
+      <link>/posts/em-series/em10/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/em-series/em10/</guid>
+      <description>codename EM10
+ Lithium battery is one of the most popular power source in amateur projects, especially in handheld devices. Under this scenario, an efficient full-featured yet low-profile battery charger which can be easily and transparently embedded is the ultimate requirement for a part selection consideration.
+TP4056 (Chinese) from Top Power ASIC® is such a candidate. This tiny chip is an up to 1 ampere high current fully featured lithium battery charger costing less than $0.</description>
+    </item>
+    
+  </channel>
+</rss>

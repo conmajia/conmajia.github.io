@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CONMAJIA</title>
+    <link>/</link>
+    <description>Recent content on CONMAJIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4-1 Audio MUX and Stereo Speaker</title>
+      <link>/posts/em-series/em21-a-em22/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/em-series/em21-a-em22/</guid>
+      <description>4-1 audio multiplexer initiated on May 12, 2020, codename EM22.
+Stereo speaker initiated on , codename EM21-A.
+   Figure 1 EM21-A and EM22   These two devices were made to enjoy audio contents from multiple analog sound sources. EM22 selects output channels and EM21-A amplifies the selection and outputs them via two built-in loudspeakers, or directly via a 3.5mm panel headphone jack.
+Switching between audio channels requires only a simple press on either of the four green buttons on EM22, fairly easy.</description>
+    </item>
+    
+    <item>
+      <title>1A Lithium Battery Charger</title>
+      <link>/posts/em-series/em10/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/em-series/em10/</guid>
+      <description>codename EM10
+ Lithium battery is one of the most popular power source in amateur projects, especially in handheld devices. Under this scenario, an efficient full-featured yet low-profile battery charger which can be easily and transparently embedded is the ultimate requirement for a part selection consideration.
+TP4056 (Chinese) from Top Power ASIC® is such a candidate. This tiny chip is an up to 1 ampere high current fully featured lithium battery charger costing less than $0.</description>
+    </item>
+    
+    <item>
+      <title>&lt;span style=&#34;text-shadow:1px 1px var(--tertiary);font-stretch:expanded;letter-spacing:-1px;font-weight:bold;font-family:&#39;trebuchet ms&#39;,helvetica,arial;font-size:var(--font-lg)&#34;&gt;&lt;span style=&#34;color:orangered&#34;&gt;e&lt;/span&gt;&lt;span style=&#34;color:royalblue&#34;&gt;b&lt;/span&gt;&lt;span style=&#34;color:orange&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:yellowgreen&#34;&gt;y&lt;/span&gt;&lt;/span&gt; Item Extractor</title>
+      <link>/posts/py-web-crawler/ebay-item-extractor/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/py-web-crawler/ebay-item-extractor/</guid>
+      <description>This is a more complicated example of web crawler compared to what is demonstrated in the Web Crawler Introduction.
+Ebay is an amazing e-commercial website containing huge amounts of goods trading on it. Thanks to Python, it is possible to extract every single detail of items on Ebay.
+ NOTE requests.get can only fetch statically served pages, which means any late-binding dynamically generated pages may suffer a unsuccessful retrieval.
+ Generate URL with Search Keywords To crawl a website, a correct resource location is required to fetch web pages containing desired contents.</description>
+    </item>
+    
+    <item>
+      <title>Web Crawler Introduction</title>
+      <link>/posts/py-web-crawler/what-is-web-crawler/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/py-web-crawler/what-is-web-crawler/</guid>
+      <description>Web crawlers, usually known as web spiders, are automated data samplers and remote content fetchers. These programmed agents retrieve web contents and store them for future analytic usage. A typical crawler loads web pages from the internet, abstracts contents of specified fields in page HTML sources, and constructs these data into a JSON object or other formats of storage. In this scenario, the crawler substitutes web browsers operated by human clients.</description>
+    </item>
+    
+    <item>
+      <title>Conditional Offers from Universities</title>
+      <link>/posts/all-about-applications/conditional-offers/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/all-about-applications/conditional-offers/</guid>
+      <description>Offers are reception passports authorized by universities. They are tickets to future success. Conditional offers, as the name suggests, are made to those partially qualified candidates who lack some of the requirements at the time of application. If you are made a conditional offer, this means you&amp;rsquo;ve got the potential acceptance from professors but subject to finish tasks listed in the offer.
+Congrats to you! You are at the front gate of your goal.</description>
+    </item>
+    
+    <item>
+      <title>Natural-Imitating Random Number Generator</title>
+      <link>/posts/2021-01-08.emp1/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021-01-08.emp1/</guid>
+      <description>Initiated on May 12, 2012, codename EMP1.
+ Random number generator, or RNG, is one of the most fundamental ingredients of all computers and programming languages, in the form of electronic or software modules. RNGs were invented long before mechanical or electronic computers before there were symbols for writing numbers.
+Ancient civilizations used flipping coins or rolling dices to generate independent random numbers. The most antique dices found in Iraq and Iran were made 5,000 years ago.</description>
+    </item>
+    
+    <item>
+      <title>Essentials for Personal Statements</title>
+      <link>/posts/all-about-applications/ps-essentials/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/all-about-applications/ps-essentials/</guid>
+      <description>Length and Text 2 pages at most. Be concise, organized, free of errors. Tailor to particular institution.
+Never provide a generic, lengthy biography book to your application. Professors of the admission council have no such leisure hours studying your detailed story. They, or their assistants, will quickly glance through hundreds of application materials in a couple of days. Therefore, you will have to catch their sights by using some accurate remarkable keywords in your PS.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/history/</guid>
+      <description> Unless specified, all contents on this site are copyright. Greg Conmajia, owner of the site, reserves all rights.
+  January 14, 2021 Initiation.  </description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
