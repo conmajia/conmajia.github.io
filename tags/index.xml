@@ -34,34 +34,34 @@
     </item>
     
     <item>
-      <title>application</title>
-      <link>/tags/application/</link>
+      <title>College and University Admissions</title>
+      <link>/tags/college-and-university-admissions/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/application/</guid>
+      <guid>/tags/college-and-university-admissions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>education</title>
-      <link>/tags/education/</link>
+      <title>Conditional Offer</title>
+      <link>/tags/conditional-offer/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/education/</guid>
+      <guid>/tags/conditional-offer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>offer</title>
-      <link>/tags/offer/</link>
+      <title>Graduate School Admissions</title>
+      <link>/tags/graduate-school-admissions/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/offer/</guid>
+      <guid>/tags/graduate-school-admissions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>audio</title>
+      <title>Audio</title>
       <link>/tags/audio/</link>
       <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
       
@@ -70,20 +70,11 @@
     </item>
     
     <item>
-      <title>electronics</title>
-      <link>/tags/electronics/</link>
+      <title>Electronic Modules</title>
+      <link>/tags/electronic-modules/</link>
       <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/electronics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multiplexer</title>
-      <link>/tags/multiplexer/</link>
-      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/multiplexer/</guid>
+      <guid>/tags/electronic-modules/</guid>
       <description></description>
     </item>
     
@@ -115,24 +106,6 @@
     </item>
     
     <item>
-      <title>College and University Admissions</title>
-      <link>/tags/college-and-university-admissions/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/college-and-university-admissions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graduate School Admissions</title>
-      <link>/tags/graduate-school-admissions/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/graduate-school-admissions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recommendation Letters</title>
       <link>/tags/recommendation-letters/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
@@ -142,11 +115,29 @@
     </item>
     
     <item>
-      <title>battery</title>
-      <link>/tags/battery/</link>
+      <title>application</title>
+      <link>/tags/application/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>/tags/education/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lithium Battery</title>
+      <link>/tags/lithium-battery/</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/battery/</guid>
+      <guid>/tags/lithium-battery/</guid>
       <description></description>
     </item>
     

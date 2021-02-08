@@ -25,12 +25,12 @@ Switching between audio channels requires only a simple press on either of the f
       
       <guid>/posts/em-series/em10/</guid>
       <description>codename EM10
- Lithium battery is one of the most popular power source in amateur projects, especially in handheld devices. Under this scenario, an efficient full-featured yet low-profile battery charger which can be easily and transparently embedded is the ultimate requirement for a part selection consideration.
-TP4056  from Top Power ASIC® is such a candidate. This tiny chip is an up to 1 ampere high current fully featured lithium battery charger costing less than $0.</description>
+ Lithium battery is one of the most commonly used power sources in amateur projects, especially in handheld devices. Under this scenario, an efficient full-featured yet low-profile battery charger which can be easily and transparently embedded is the ultimate requirement for a part selection consideration.
+TP4056 from Top Power ASIC® is such a candidate. This tiny chip is an all-in-one, full featured, integrated solution supporting up to 1 ampere current lithium battery charger and costs less than $0.</description>
     </item>
     
     <item>
-      <title>&lt;span style=&#34;text-shadow:1px 1px var(--tertiary);font-stretch:expanded;letter-spacing:-1px;font-weight:bold;font-family:&#39;trebuchet ms&#39;,helvetica,arial;font-size:var(--font-lg)&#34;&gt;&lt;span style=&#34;color:orangered&#34;&gt;e&lt;/span&gt;&lt;span style=&#34;color:royalblue&#34;&gt;b&lt;/span&gt;&lt;span style=&#34;color:orange&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:yellowgreen&#34;&gt;y&lt;/span&gt;&lt;/span&gt; Item Extractor</title>
+      <title>&lt;span style=&#34;font-stretch:expanded;letter-spacing:-1px;font-weight:bold;font-family:&#39;trebuchet ms&#39;,helvetica,arial;font-size:var(--font-lg)&#34;&gt;&lt;span style=&#34;color:orangered&#34;&gt;e&lt;/span&gt;&lt;span style=&#34;color:royalblue&#34;&gt;b&lt;/span&gt;&lt;span style=&#34;color:orange&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:yellowgreen&#34;&gt;y&lt;/span&gt;&lt;/span&gt; Item Extractor</title>
       <link>/posts/py-web-crawler/ebay-item-extractor/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -54,7 +54,7 @@ The requests.get() function can only fetch statically served pages, which means 
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/all-about-applications/conditional-offers/</guid>
-      <description>Offers are reception passports authorized by universities. They are tickets to future success. Conditional offers, as the name suggests, are made to those partially qualified candidates who lack some of the requirements at the time of application. If you are made a conditional offer, this means you&amp;rsquo;ve got the potential acceptance from professors but subject to finish tasks listed in the offer.
+      <description>Offers are reception passports authorized by universities. They are tickets to your future success. A conditional offer, as the name suggests, is made to those partially qualified candidates who lack some of the requirements at the time of application. If you are made a conditional offer, this means you&amp;rsquo;ve got the potential acceptance from professors but subject to finish tasks listed in the offer.
 Congrats to you! You are at the front gate of your goal.</description>
     </item>
     

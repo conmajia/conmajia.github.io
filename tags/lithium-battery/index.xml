@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lithium Battery on CONMAJIA</title>
+    <link>/tags/lithium-battery/</link>
+    <description>Recent content in Lithium Battery on CONMAJIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/lithium-battery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1A Lithium Battery Charger</title>
+      <link>/posts/em-series/em10/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/em-series/em10/</guid>
+      <description>codename EM10
+ Lithium battery is one of the most commonly used power sources in amateur projects, especially in handheld devices. Under this scenario, an efficient full-featured yet low-profile battery charger which can be easily and transparently embedded is the ultimate requirement for a part selection consideration.
+TP4056 from Top Power ASIC® is such a candidate. This tiny chip is an all-in-one, full featured, integrated solution supporting up to 1 ampere current lithium battery charger and costs less than $0.</description>
+    </item>
+    
+  </channel>
+</rss>

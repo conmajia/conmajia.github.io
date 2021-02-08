@@ -73,7 +73,7 @@
   </url>
   
   <url>
-    <loc>/tags/application/</loc>
+    <loc>/tags/college-and-university-admissions/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,17 +83,17 @@
   </url>
   
   <url>
+    <loc>/tags/conditional-offer/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/all-about-applications/conditional-offers/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/education/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/offer/</loc>
+    <loc>/tags/graduate-school-admissions/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,12 +108,12 @@
   </url>
   
   <url>
-    <loc>/posts/em-series/</loc>
+    <loc>/tags/electronic-modules/</loc>
     <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/electronics/</loc>
+    <loc>/posts/em-series/</loc>
     <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -124,11 +124,6 @@
   
   <url>
     <loc>/categories/handmade/</loc>
-    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/multiplexer/</loc>
     <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,16 +163,6 @@
   </url>
   
   <url>
-    <loc>/tags/college-and-university-admissions/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/graduate-school-admissions/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/all-about-applications/quora-lor-unfair/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -188,12 +173,22 @@
   </url>
   
   <url>
+    <loc>/tags/application/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/education/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/all-about-applications/ps-essentials/</loc>
     <lastmod>2019-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/battery/</loc>
+    <loc>/tags/lithium-battery/</loc>
     <lastmod>2018-09-16T00:00:00+00:00</lastmod>
   </url>
   
