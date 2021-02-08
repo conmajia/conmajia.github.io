@@ -12,8 +12,7 @@
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/py-web-crawler/ebay-item-extractor/</guid>
-      <description>This is a more complicated example of web crawler compared to what is demonstrated in the Web Crawler Introduction.
-Ebay is an amazing e-commercial website containing huge amounts of goods trading on it. Thanks to Python, it is possible to extract every single detail of items on Ebay.
+      <description>Ebay  is an amazing e-commercial website containing huge amounts of goods trading on it. Thanks to Python, it is possible to extract every single detail of items on Ebay.
 The requests.get() function can only fetch statically served pages, which means any late-binding dynamically generated pages may suffer a unsuccessful retrieval. Generate URL with Search Keywords To crawl a website, a correct resource location is required to fetch web pages containing desired contents.</description>
     </item>
     
