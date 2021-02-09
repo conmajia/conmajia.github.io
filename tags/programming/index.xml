@@ -12,8 +12,8 @@
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/py-web-crawler/ebay-item-extractor/</guid>
-      <description>Ebay  is an amazing e-commercial website containing huge amounts of goods trading on it. Thanks to Python, it is possible to extract every single detail of items on Ebay.
-The requests.get() function can only fetch statically served pages, which means any late-binding dynamically generated pages may suffer a unsuccessful retrieval. Generate URLs with Search Keywords To crawl a website, a correct resource location is required to fetch web pages containing desired contents.</description>
+      <description>Ebay is an amazing e-commercial website containing huge amounts of goods trading on it. Thanks to Python, it is possible to extract every single detail of items on Ebay.
+The requests.get() function only fetches static pages, meaning that any dynamically generated pages and late-binded contents may suffer a unsuccessful retrieval. Generate URLs with Search Keywords To crawl a website, a correct resource location is required to fetch web pages containing desired contents.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@ The requests.get() function can only fetch statically served pages, which means 
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/py-web-crawler/what-is-web-crawler/</guid>
-      <description>Web crawlers, usually known as web spiders, are automated data samplers and remote content fetchers. These programmed agents retrieve web contents and store them for future analytic usage. A typical crawler loads web pages from the internet, abstracts contents of specified fields in page HTML sources, and constructs these data into a JSON object or other formats of storage. In this scenario, the crawler substitutes web browsers operated by human clients.</description>
+      <description>Web crawlers, also known as web spiders, are automated data samplers and remote content fetchers. These programmed agents retrieve web contents and store them for future analytic usage. A typical crawler loads web pages from the internet, abstracts contents of specified fields in page HTML sources, and constructs these data into a JSON object or other formats of storage. In this scenario, the crawler substitutes web browsers operated by human clients.</description>
     </item>
     
   </channel>
