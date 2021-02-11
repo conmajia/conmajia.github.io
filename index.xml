@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content on CONMAJIA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4-1 Audio MUX and Stereo Speaker</title>
       <link>/posts/em-series/em21-a-em22/</link>
@@ -27,6 +27,19 @@ Switching between audio channels requires only a simple press on either of the f
       <description>codename EM10
  Lithium battery is one of the most commonly used power sources in amateur projects, especially in handheld devices. Under this scenario, an efficient full-featured yet low-profile battery charger which can be transparently embedded is the ultimate requirement for a part selection consideration.
 TP4056 from Top Power ASIC® is such a candidate. This tiny chip is an all-in-one, full featured, integrated solution supporting up to 1 ampere current lithium battery charger and costs less than $0.</description>
+    </item>
+    
+    <item>
+      <title>Oxford Admissions Exercise: MScMCF 2020</title>
+      <link>/posts/all-about-applications/oxford-mcf-admission-exercise/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/all-about-applications/oxford-mcf-admission-exercise/</guid>
+      <description>Notes 提示 The questions are based on linear algebra, calculus, probability, partial differe ntial equations, and algorithms.
+习题涉及内容有线性代数、微积分、概率论、偏微分方程及算法。 You should attempt all questions and show all working.
+你应尝试完成所有习题，并记录全部解题过程。 Stating the answers without showing how they were obtained will not attract credit.
+直接写出答案而未记录解答过程将无法得分。 Total points: 100
+满分：100  Probability 概率  .post-content ol.exercise li ol li { list-style-type: lower-alpha; } .post-content ol.exercise li ol li ol li { list-style-type: lower-roman; } .</description>
     </item>
     
     <item>
@@ -88,6 +101,15 @@ What goes on behind the scene before a recommendation letter gets to the Admissi
       <guid>/posts/all-about-applications/ps-essentials/</guid>
       <description>Length and Text 2 pages at most. Be concise, organized, free of errors. Tailor to particular institutions.
 Never provide a generic, lengthy biography book to your application. Professors of the admission council have no such leisure hours studying your detailed story. They, or their assistants, will quickly glance through hundreds of application materials in a couple of days. Therefore, you will have to catch their sights by using some accurate remarkable keywords in your PS.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am Conmajia </description>
     </item>
     
     <item>

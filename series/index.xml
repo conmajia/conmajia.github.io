@@ -5,22 +5,22 @@
     <link>/series/</link>
     <description>Recent content in Series on CONMAJIA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>College Application</title>
+      <link>/series/college-application/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/series/college-application/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Python Crawler</title>
       <link>/series/python-crawler/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/series/python-crawler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>College Application</title>
-      <link>/series/college-application/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/series/college-application/</guid>
       <description></description>
     </item>
     

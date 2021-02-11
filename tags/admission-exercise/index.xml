@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admission Exercise on CONMAJIA</title>
+    <link>/tags/admission-exercise/</link>
+    <description>Recent content in Admission Exercise on CONMAJIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/admission-exercise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oxford Admissions Exercise: MScMCF 2020</title>
+      <link>/posts/all-about-applications/oxford-mcf-admission-exercise/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/all-about-applications/oxford-mcf-admission-exercise/</guid>
+      <description>Notes 提示 The questions are based on linear algebra, calculus, probability, partial differe ntial equations, and algorithms.
+习题涉及内容有线性代数、微积分、概率论、偏微分方程及算法。 You should attempt all questions and show all working.
+你应尝试完成所有习题，并记录全部解题过程。 Stating the answers without showing how they were obtained will not attract credit.
+直接写出答案而未记录解答过程将无法得分。 Total points: 100
+满分：100  Probability 概率  .post-content ol.exercise li ol li { list-style-type: lower-alpha; } .post-content ol.exercise li ol li ol li { list-style-type: lower-roman; } .</description>
+    </item>
+    
+  </channel>
+</rss>
