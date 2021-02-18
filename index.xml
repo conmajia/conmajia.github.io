@@ -104,12 +104,33 @@ Never provide a generic, lengthy biography book to your application. Professors 
     </item>
     
     <item>
+      <title>如何 P 图成绩单</title>
+      <link>/posts/how-to-counterfeit-your-scores/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-counterfeit-your-scores/</guid>
+      <description>虽然这套路看起来能给你留点颜面，但是还是实话实说比较好。考试失败已经很难过了，不会有人难为你的。如果有，那么就用这招吧。千万别被抓包哦。 考试成绩差？全家人的期待没法交代？要不要试试P一下成绩，弄成差个几分惜败的样子，这样面子上好过一些，家长的失望程度也轻一些？（其实并不会）如果你有这方面的需求，你可以试试自己P图。
+现在的成绩多数都在网上查询，比如我考的雅思。
+  图 1 我的雅思成绩   这是在Mac的Safari浏览器里看到的，Windows上面与此类似，你可以多试验几次。 下面是干货。首先在要改的成绩上——这里我选择最菜的「口语」——点右键，选择Inspect Element（中文「检查元素」）。
+  图 2 右键点击要修改的部分   此时，网页底部（或者右侧）会出现「开发者工具」面板，看起来有点复杂，不过注意高亮部分。点击这里查看大图。
+  图 3 待修改部分会在开发者工具中高亮显示   双击「6.0」进入编辑模式，修改成「9.0」。
+  图 4 修改成绩   你会看到，网页上原来的垃圾成绩已经变得好看了。
+  图 5 已经修改的成绩   按照这种方法，把其他需要修改的分数以及总分都改好，千万不要傻乎乎搞得分数不符合哦。最后截图，你就可以交差啦。（太心酸了）
+  图 6 理想的成绩   祝你好运吧！
+  </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I am Conmajia </description>
+      <description>I am Conmajia Hello, I am your best friend. 😘
+你好，我是你最好的朋友。😘
+If you&amp;rsquo;d like to support me, please donate. Love you!
+如果你愿意支持我，请资助我。爱你哟！
+  Scan with WeChat 微信扫码     Scan with AliPay 支付宝扫码   </description>
     </item>
     
     <item>
