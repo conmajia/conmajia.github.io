@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>考试成绩 on CONMAJIA</title>
+    <title>考试成绩 on Hello, Conmajia</title>
     <link>/tags/%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9/</link>
-    <description>Recent content in 考试成绩 on CONMAJIA</description>
+    <description>Recent content in 考试成绩 on Hello, Conmajia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>如何 P 图成绩单</title>
+      <title>如何给你的成绩单套上一块遮羞布</title>
       <link>/posts/how-to-counterfeit-your-scores/</link>
-      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/how-to-counterfeit-your-scores/</guid>
-      <description>虽然这套路看起来能给你留点颜面，但是还是实话实说比较好。考试失败已经很难过了，不会有人难为你的。如果有，那么就用这招吧。千万别被抓包哦。 考试成绩差？全家人的期待没法交代？要不要试试P一下成绩，弄成差个几分惜败的样子，这样面子上好过一些，家长的失望程度也轻一些？（其实并不会）如果你有这方面的需求，你可以试试自己P图。
-现在的成绩多数都在网上查询，比如我考的雅思。
-  图 1 我的雅思成绩   这是在Mac的Safari浏览器里看到的，Windows上面与此类似，你可以多试验几次。 下面是干货。首先在要改的成绩上——这里我选择最菜的「口语」——点右键，选择Inspect Element（中文「检查元素」）。
-  图 2 右键点击要修改的部分   此时，网页底部（或者右侧）会出现「开发者工具」面板，看起来有点复杂，不过注意高亮部分。点击这里查看大图。
-  图 3 待修改部分会在开发者工具中高亮显示   双击「6.0」进入编辑模式，修改成「9.0」。
-  图 4 修改成绩   你会看到，网页上原来的垃圾成绩已经变得好看了。
-  图 5 已经修改的成绩   按照这种方法，把其他需要修改的分数以及总分都改好，千万不要傻乎乎搞得分数不符合哦。最后截图，你就可以交差啦。（太心酸了）
-  图 6 理想的成绩   祝你好运吧！
-  </description>
+      <description>.cite p { text-align: center; } .cite { text-align: center; font-size: var(--font-xl); display: block; width: 50%; margin: 2em auto; padding-top: 1em; padding-bottom: 1em; border-top: 2px solid var(--tertiary); border-bottom: 2px solid var(--tertiary); }  每一个谎言都需要一千个谎言来弥补。
+——《1001》 考试成绩差？怕丢脸？全家人的期待没法交代？或许可以试试给你的成绩做个美颜。
+把成绩P到只差几分，做成惜败的假象，将自己从惨败的狼狈中解放出来，是每个笨蛋考生本场考试最后一次的挣扎。学习方法千千万万，然而失败的结果最终把我们汇聚到了这次为挽回颜面悄悄进行的拙劣尝试。
+大学里，你很少看到20、30这样的低分，那是因为教授们深谙“做人留一线”的道理。他们会主动帮每个不会做题的蠢货把成绩P到59分——你依然是不及格，但至少面子上好看多了。
+感谢互联网，让我们离开了教授的打捞也能轻松粉饰丢人现眼的分数。如果你的成绩通过网上查询——比如我考的这场雅思——那么你可以在1分钟内完成本次自我救赎。
+  ▲ 一言难尽的雅思成绩   这是在Mac的Safari浏览器里看到的，Windows上面与此类似，你可以多试验几次。 用鼠标在最碍眼的成绩——例如成绩单里让人耻笑的“口语”——上面狠狠点下右键，选择Inspect Element（检查元素）。
+  ▲ 右键点击要修改的部分   你会看到网页底部或者右侧出现了一个叫做“开发者工具”的面板——看上去有点复杂，因为这里会列出整个网页的源代码。然而这不重要，你只需要关心被高亮的成绩。点这里查看大图。
+  ▲ 每项成绩都对应着一行代码   双击“6.0”进入编辑模式，修改成“9.0”，回车。
+  ▲ 请随意修改成绩   基于自我催眠和心理暗示，你会看到原本丑陋的成绩单已经变得好看了不少。</description>
     </item>
     
   </channel>
